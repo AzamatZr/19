@@ -1,0 +1,14 @@
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.AssemblyInfoInputs.cache
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.AssemblyInfo.cs
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.csproj.CoreCompileInputs.cache
+C:\Users\azama\Desktop\Новая папка\тех\19_2\bin\Debug\net8.0\19_2.exe
+C:\Users\azama\Desktop\Новая папка\тех\19_2\bin\Debug\net8.0\19_2.deps.json
+C:\Users\azama\Desktop\Новая папка\тех\19_2\bin\Debug\net8.0\19_2.runtimeconfig.json
+C:\Users\azama\Desktop\Новая папка\тех\19_2\bin\Debug\net8.0\19_2.dll
+C:\Users\azama\Desktop\Новая папка\тех\19_2\bin\Debug\net8.0\19_2.pdb
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.dll
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\refint\19_2.dll
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.pdb
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\19_2.genruntimeconfig.cache
+C:\Users\azama\Desktop\Новая папка\тех\19_2\obj\Debug\net8.0\ref\19_2.dll
