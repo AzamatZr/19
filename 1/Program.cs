@@ -10,7 +10,7 @@ class Program
         int b = int.Parse(Console.ReadLine());
         int c = int.Parse(Console.ReadLine());
         Console.WriteLine($"Сумма 2 первых чисел {a} + {b} = {sum2(a, b)}");
-        Console.WriteLine($"Сумма 3 чисел, используя подпрограмму вычисления суммы двух чисел = {sum2(a, b)}.\nСумма всех чисел = {a} + {b} + {c} или {sum2(a, b)} + {c} = {sum2(a, b) + c}");
+        Console.WriteLine($"Сумма 3 чисел, используя подпрограмму вычисления суммы двух чисел:\nСумма = {a} + {b} + {c} или {sum2(a, b)} + {c} = {sum2(a, b) + c}");
     }
     static int sum2 (int a, int b){
         return a + b;
